@@ -2,6 +2,6 @@
 
 Outline dinâmico em HTML dos capítulos 1-3 da Física de Aristóteles a partir do texto grego de Ross (1936) e da tradução de Joe Sachs (1995) com notas adicionais em português.
 
-Para ver o outline: https://bcdavasconcelos.github.io/Aristoteles-Phys.III.1-3/
+**Para ver o outline: https://bcdavasconcelos.github.io/Aristoteles-Phys.III.1-3/**
 
 > Produzido com Omnioutliner 5.3
