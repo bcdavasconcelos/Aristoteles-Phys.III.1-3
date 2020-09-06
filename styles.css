@@ -5,9 +5,8 @@ html {
 
 body#wholeDocument {
     -webkit-text-size-adjust:none; 
-    font-family: Helvetica, sans-serif; 
+    font-family: Alegreya, Cambria, Gentium Plus, Menlo, Helvetica; 
     font-size: 12px;
-font-family: "EB Garamond", sans-serif; 
     text-align: justify;
     line-height: 1.32;
     
